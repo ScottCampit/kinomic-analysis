@@ -1,0 +1,18 @@
+{
+  "homosapien": "HUMAN",
+  "bostaurus": "BOVIN",
+  "caviaporcellus": "CAVPO",
+  "cricetulusgriseus": "CRIGR",
+  "equuscaballus": "HORSE",
+  "jaculusorientalis": "JACOR",
+  "macacafuscata": "MACFU",
+  "macacamulatta": "MACMU",
+  "mesocricetusauratus": "MESAU",
+  "musmusculus": "MOUSE",
+  "oryctolaguscuniculus": "RABIT",
+  "ovisaries": "SHEEP",
+  "rattusnorvegicus": "RAT",
+  "spermophilusrichardsonii": "URORI",
+  "susscrofa": "PIG",
+  "yeast": "YEAST"
+}
