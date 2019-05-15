@@ -1,0 +1,155 @@
+0
+(2-Aminoethyl)phosphonate
+(p-Hydroxyphenyl)lactic acid
+"2,3-diphospho-D-glyceric acid"
+2'-deoxyadenosine 5'-diphosphate
+2'-deoxyuridine 5'-triphosphate
+2'-deoxyuridine
+3-hydroxy-3-methylglutarate
+3-methyl-L-histidine
+3-phospho-d-glycerate
+3-phospho-l-serine
+4-Guanidinobutanoic acid
+"5,6-dihydrouracil"
+"5,6-Dimethylbenzimidazole"
+5-oxoproline
+5'-s-methyl-5'-thioadenosine
+6-phosphogluconic acid
+acetylphosphate
+adenine
+adenosine
+alanine
+allantoin
+alpha-D-ribose 5-phosphate
+alpha-keto-glutarate
+alpha-tocopherol
+anthranilic acid
+arabinose
+arginine
+arginino-succinate
+asparagine
+aspartate
+beta-alanine
+beta-hydroxypyruvic acid
+beta-nicotinamide adenine dinucleotide
+biotin
+caffeine
+carnitine
+cholesterol
+citric acid
+creatinine
+cysteine
+cytidine
+cytidine 5'-monophosphate
+D-allose
+DL-cystathionine
+DL-homocysteine
+D-ribose
+erythrose-4-phosphate
+ethylmalonic acid
+fumaric acid
+gamma-glu-cys
+gamma-L-glutamyl-L-glutamine
+gamma-L-glutamyl-L-tyrosine
+gluconic acid
+glucose-6-phosphate
+glutamic acid
+glutamine
+"glutathione, reduced"
+glyceraldehyde
+glyceric acid
+glycerol
+glycine
+guanine
+guanosine
+guanosine 5'- monophosphate
+"gulono-1,4-lactone"
+histidine
+homogentisate
+hypotaurine
+hypoxanthine
+inosine
+inositol
+inositol 1-phosphate
+"Isobar 13 includes 5-keto-D-gluconic acid, 2-keto-L-gulonic acid, D-glucuronic acid"
+"Isobar 18 includes D-fructose 1-phosphate, beta-D-fructose 6-phosphate"
+"Isobar 19 includes D-saccharic acid, 2-deoxy-D-galactose, 2-deoxy-D-glucose, L-fucose, L-rhamnose"
+"Isobar 22 includes glutamic acid, O-acetyl-L-serine"
+"Isobar 25 includes L-gulono-1,4-lactone, glucono-gamma-lactone"
+"Isobar 27 includes L-kynurenine, alpha-2-diamino-gamma-oxobenzenebutanoic acid"
+"Isobar 3 includes inositol 1-phosphate, mannose 6-phosphate, glucose 6-phosphate, D-mannose 1-phosphate, alpha-D-glucose 1-phosphate, alpha-D-galactose 1 phosphate"
+"Isobar 35 includes D-arabinose 5-phosphate, D-ribulose 5-phosphate, alpha-D-ribose-5-phosphate"
+"Isobar 36 includes D-sorbitol 6-phosphate, mannitol-1-phosphate"
+"Isobar 37 includes mannitol, dulcitol"
+"Isobar 39 includes N-acetyl-D-glucosamine-6-phosphate, N-acetyl-alpha-D-glucosamine 1-phosphate"
+"Isobar 4 includes Gluconic acid, DL-arabinose, D-ribose, L-xylose, DL-lyxose, D-xylulose"
+"Isobar 6 includes valine, betaine"
+"Isobar 9 includes sucrose, beta-D-lactose, D-trehalose, D-cellobiose, D-Maltose, palatinose, melibiose, alpha-D-lactose"
+isoleucine
+Kynurenic acid
+lactate
+L-allo-threonine
+L-alpha-glycerophosphorylcholine
+L-arabitol
+L-beta-imidazolelactic acid
+leucine
+malic acid
+malonic acid
+mannose
+mannose-6-phosphate
+melatonin
+methionine
+N(5)-(aminocarbonyl)-L-ornithine
+N('6)-trimethyl-l-lysine
+"N,N-dimethylarginine"
+N-acetyl-D-galactosamine
+N-acetylneuraminic acid
+n-dodecanoate
+N-formyl-L-methionine
+n-hexadecanoic acid
+niacinamide
+octopamine
+oleic acid
+ornithine
+orotidine 5'-phosphate
+oxitryptan
+palmitoleic acid
+pantothenic acid
+phenylalanine
+phosphate
+phosphoenolpyruvate
+picolinic acid
+porphobilinogen
+Possible Artifact-2336 (RI Ladder)
+proline
+Putrescine
+pyridoxal
+pyrophosphate
+quinolinic acid
+ribulose-5-phosphate
+S-(5'-adenosyl)-L-methionine
+S-adenosyl-l-homocysteine
+serine
+sn-Glycerol 3-phosphate
+sorbitol
+Spermidine
+succinate
+tartaric acid
+taurine
+tetradecanoic acid
+threonine
+trans-11-eicosenoic acid
+trans-4-hydroxyproline
+trehalose 6-phosphate
+tryptophan
+tyramine
+tyrosine
+uracil
+urea
+uric acid
+uridine
+uridine diphosphate-N-acetylmuraminic acid
+valine
+xanthine
+xanthosine
+xylitol
